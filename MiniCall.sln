@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCall", "MiniCall\MiniCall.csproj", "{B51F5524-BC94-49AE-970E-AE64EE16676F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniCallService", "MiniCallService\MiniCallService.csproj", "{B62B439B-F4BE-4FF6-9EC5-30AB4D5E2BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51F5524-BC94-49AE-970E-AE64EE16676F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51F5524-BC94-49AE-970E-AE64EE16676F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51F5524-BC94-49AE-970E-AE64EE16676F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51F5524-BC94-49AE-970E-AE64EE16676F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62B439B-F4BE-4FF6-9EC5-30AB4D5E2BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62B439B-F4BE-4FF6-9EC5-30AB4D5E2BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62B439B-F4BE-4FF6-9EC5-30AB4D5E2BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62B439B-F4BE-4FF6-9EC5-30AB4D5E2BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD8B3A6-6CB1-4EE7-8A9F-E63583DE4043}
+	EndGlobalSection
+EndGlobal
